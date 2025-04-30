@@ -411,6 +411,90 @@
   <programme channel="151" start="20250430223000 +0800" stop="20250430235700 +0800">
     <title lang="zh">幸福密码晚间版</title>
   </programme>
+  <channel id="152">
+    <display-name lang="zh">河南乡村频道</display-name>
+  </channel>
+  <programme channel="152" start="20250430000000 +0800" stop="20250430013000 +0800">
+    <title lang="zh">群影汇特别节目</title>
+  </programme>
+  <programme channel="152" start="20250430013000 +0800" stop="20250430030000 +0800">
+    <title lang="zh">乡村放映室特别节目</title>
+  </programme>
+  <programme channel="152" start="20250430030000 +0800" stop="20250430060000 +0800">
+    <title lang="zh">午夜电影</title>
+  </programme>
+  <programme channel="152" start="20250430060000 +0800" stop="20250430073000 +0800">
+    <title lang="zh">乡村演播室早间版</title>
+  </programme>
+  <programme channel="152" start="20250430073000 +0800" stop="20250430090000 +0800">
+    <title lang="zh">乡村演播室特别版</title>
+  </programme>
+  <programme channel="152" start="20250430090000 +0800" stop="20250430092000 +0800">
+    <title lang="zh">乡村你我行</title>
+  </programme>
+  <programme channel="152" start="20250430092000 +0800" stop="20250430104000 +0800">
+    <title lang="zh">乡音剧场</title>
+  </programme>
+  <programme channel="152" start="20250430104000 +0800" stop="20250430110000 +0800">
+    <title lang="zh">乡村你我行</title>
+  </programme>
+  <programme channel="152" start="20250430110000 +0800" stop="20250430113000 +0800">
+    <title lang="zh">乡音剧场</title>
+  </programme>
+  <programme channel="152" start="20250430113000 +0800" stop="20250430115000 +0800">
+    <title lang="zh">乡村你我行</title>
+  </programme>
+  <programme channel="152" start="20250430115000 +0800" stop="20250430133000 +0800">
+    <title lang="zh">乡村演播室午间版</title>
+  </programme>
+  <programme channel="152" start="20250430133000 +0800" stop="20250430135000 +0800">
+    <title lang="zh">乡村指南</title>
+  </programme>
+  <programme channel="152" start="20250430135000 +0800" stop="20250430145000 +0800">
+    <title lang="zh">乡村演播室下午版</title>
+  </programme>
+  <programme channel="152" start="20250430145000 +0800" stop="20250430151000 +0800">
+    <title lang="zh">乡村指南</title>
+  </programme>
+  <programme channel="152" start="20250430151000 +0800" stop="20250430154000 +0800">
+    <title lang="zh">乡村演播室下午版</title>
+  </programme>
+  <programme channel="152" start="20250430154000 +0800" stop="20250430160000 +0800">
+    <title lang="zh">乡村指南</title>
+  </programme>
+  <programme channel="152" start="20250430160000 +0800" stop="20250430163000 +0800">
+    <title lang="zh">乡村大舞台</title>
+  </programme>
+  <programme channel="152" start="20250430163000 +0800" stop="20250430165000 +0800">
+    <title lang="zh">乡村指南</title>
+  </programme>
+  <programme channel="152" start="20250430165000 +0800" stop="20250430172000 +0800">
+    <title lang="zh">乡村大舞台</title>
+  </programme>
+  <programme channel="152" start="20250430172000 +0800" stop="20250430174000 +0800">
+    <title lang="zh">乡村指南</title>
+  </programme>
+  <programme channel="152" start="20250430174000 +0800" stop="20250430193000 +0800">
+    <title lang="zh">群影汇</title>
+  </programme>
+  <programme channel="152" start="20250430193000 +0800" stop="20250430201000 +0800">
+    <title lang="zh">乡村说</title>
+  </programme>
+  <programme channel="152" start="20250430201000 +0800" stop="20250430204000 +0800">
+    <title lang="zh">大象跑三农</title>
+  </programme>
+  <programme channel="152" start="20250430204000 +0800" stop="20250430215000 +0800">
+    <title lang="zh">乡村演播室晚间版</title>
+  </programme>
+  <programme channel="152" start="20250430215000 +0800" stop="20250430221000 +0800">
+    <title lang="zh">乡村指南</title>
+  </programme>
+  <programme channel="152" start="20250430221000 +0800" stop="20250430223000 +0800">
+    <title lang="zh">乡村演播室晚间版</title>
+  </programme>
+  <programme channel="152" start="20250430223000 +0800" stop="20250430235700 +0800">
+    <title lang="zh">星空影院</title>
+  </programme>
   <channel id="148">
     <display-name lang="zh">电视剧频道</display-name>
   </channel>
