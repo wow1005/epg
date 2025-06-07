@@ -822,39 +822,6 @@
   <programme channel="156" start="20250607230100 +0800" stop="20250607235700 +0800">
     <title lang="zh">巅峰擂台</title>
   </programme>
-  <channel id="157">
-    <display-name lang="zh">睛彩中原</display-name>
-  </channel>
-  <programme channel="157" start="20250607000000 +0800" stop="20250607042000 +0800">
-    <title lang="zh">河南有好戏（重播）</title>
-  </programme>
-  <programme channel="157" start="20250607042000 +0800" stop="20250607082000 +0800">
-    <title lang="zh">美好剧场《河山》（重播）</title>
-  </programme>
-  <programme channel="157" start="20250607082000 +0800" stop="20250607102000 +0800">
-    <title lang="zh">美好剧场《冲出月亮岛》</title>
-  </programme>
-  <programme channel="157" start="20250607102000 +0800" stop="20250607122000 +0800">
-    <title lang="zh">河南有好戏</title>
-  </programme>
-  <programme channel="157" start="20250607122000 +0800" stop="20250607142000 +0800">
-    <title lang="zh">《周末就出发》</title>
-  </programme>
-  <programme channel="157" start="20250607142000 +0800" stop="20250607175000 +0800">
-    <title lang="zh">精彩剧场《河山》</title>
-  </programme>
-  <programme channel="157" start="20250607175000 +0800" stop="20250607195000 +0800">
-    <title lang="zh">河南有好戏</title>
-  </programme>
-  <programme channel="157" start="20250607195000 +0800" stop="20250607200000 +0800">
-    <title lang="zh">《教育第一线》</title>
-  </programme>
-  <programme channel="157" start="20250607200000 +0800" stop="20250607234000 +0800">
-    <title lang="zh">河南有好戏</title>
-  </programme>
-  <programme channel="157" start="20250607234000 +0800" stop="20250607235700 +0800">
-    <title lang="zh">睛彩鉴赏</title>
-  </programme>
   <channel id="163">
     <display-name lang="zh">移动戏曲频道</display-name>
   </channel>
