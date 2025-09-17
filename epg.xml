@@ -1,5 +1,56 @@
 <?xml version="1.0" ?>
 <tv info-name="by spark" info-url="https://epg.112114.xyz">
+  <channel id="145">
+    <display-name lang="zh">河南卫视</display-name>
+  </channel>
+  <programme channel="145" start="20250917000300 +0800" stop="20250917023100 +0800">
+    <title lang="zh">栏目精编</title>
+  </programme>
+  <programme channel="145" start="20250917023100 +0800" stop="20250917070300 +0800">
+    <title lang="zh">午夜剧场：虎胆巍城</title>
+  </programme>
+  <programme channel="145" start="20250917070300 +0800" stop="20250917072800 +0800">
+    <title lang="zh">河南新闻联播（重播）</title>
+  </programme>
+  <programme channel="145" start="20250917072800 +0800" stop="20250917085600 +0800">
+    <title lang="zh">梨园春天天看</title>
+  </programme>
+  <programme channel="145" start="20250917085600 +0800" stop="20250917092800 +0800">
+    <title lang="zh">动画剧场：三星堆荣耀觉醒</title>
+  </programme>
+  <programme channel="145" start="20250917092800 +0800" stop="20250917121000 +0800">
+    <title lang="zh">晨光剧场：济公</title>
+  </programme>
+  <programme channel="145" start="20250917121000 +0800" stop="20250917123000 +0800">
+    <title lang="zh">河南午间报道</title>
+  </programme>
+  <programme channel="145" start="20250917123000 +0800" stop="20250917125200 +0800">
+    <title lang="zh">大象健康</title>
+  </programme>
+  <programme channel="145" start="20250917125200 +0800" stop="20250917161100 +0800">
+    <title lang="zh">阳光剧场：济公</title>
+  </programme>
+  <programme channel="145" start="20250917161100 +0800" stop="20250917183000 +0800">
+    <title lang="zh">阳光剧场：济公游记</title>
+  </programme>
+  <programme channel="145" start="20250917183000 +0800" stop="20250917190000 +0800">
+    <title lang="zh">河南新闻联播（首播）</title>
+  </programme>
+  <programme channel="145" start="20250917190000 +0800" stop="20250917193000 +0800">
+    <title lang="zh">央视新闻联播</title>
+  </programme>
+  <programme channel="145" start="20250917193000 +0800" stop="20250917213100 +0800">
+    <title lang="zh">出彩剧场：西北岁月</title>
+  </programme>
+  <programme channel="145" start="20250917213100 +0800" stop="20250917221000 +0800">
+    <title lang="zh">中国有好菜第三季</title>
+  </programme>
+  <programme channel="145" start="20250917221000 +0800" stop="20250917222200 +0800">
+    <title lang="zh">河南晚间报道</title>
+  </programme>
+  <programme channel="145" start="20250917222200 +0800" stop="20250917235700 +0800">
+    <title lang="zh">万象剧场：激战</title>
+  </programme>
   <channel id="149">
     <display-name lang="zh">新闻频道</display-name>
   </channel>
