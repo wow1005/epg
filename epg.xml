@@ -43,16 +43,16 @@
     <title lang="zh">央视新闻联播</title>
   </programme>
   <programme channel="145" start="20251010193000 +0800" stop="20251010210000 +0800">
-    <title lang="zh">出彩剧场：悬崖</title>
+    <title lang="zh">直播：2025年河南省女子排球城市联赛第二阶段比赛</title>
   </programme>
   <programme channel="145" start="20251010210000 +0800" stop="20251010221000 +0800">
     <title lang="zh">武林笼中对</title>
   </programme>
   <programme channel="145" start="20251010221000 +0800" stop="20251010222200 +0800">
-    <title lang="zh">河南晚间报道</title>
+    <title lang="zh">武林笼中对</title>
   </programme>
   <programme channel="145" start="20251010222200 +0800" stop="20251010235700 +0800">
-    <title lang="zh">万象剧场：飞哥大英雄</title>
+    <title lang="zh">河南晚间报道+飞哥大英雄</title>
   </programme>
   <channel id="149">
     <display-name lang="zh">新闻频道</display-name>
@@ -112,7 +112,7 @@
     <title lang="zh">文博河南</title>
   </programme>
   <programme channel="149" start="20251010213000 +0800" stop="20251010220000 +0800">
-    <title lang="zh">大象会客厅</title>
+    <title lang="zh">专题片《上河图》</title>
   </programme>
   <programme channel="149" start="20251010220000 +0800" stop="20251010221000 +0800">
     <title lang="zh">河南晚间报道</title>
