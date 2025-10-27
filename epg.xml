@@ -816,36 +816,6 @@
   <programme channel="156" start="20251027230100 +0800" stop="20251027235700 +0800">
     <title lang="zh">巅峰擂台</title>
   </programme>
-  <channel id="157">
-    <display-name lang="zh">睛彩中原</display-name>
-  </channel>
-  <programme channel="157" start="20251027000000 +0800" stop="20251027042000 +0800">
-    <title lang="zh">河南有好戏（重播）</title>
-  </programme>
-  <programme channel="157" start="20251027042000 +0800" stop="20251027072000 +0800">
-    <title lang="zh">精彩剧场《神医喜来乐》（重播）</title>
-  </programme>
-  <programme channel="157" start="20251027072000 +0800" stop="20251027112000 +0800">
-    <title lang="zh">美好剧场《英雄祭》</title>
-  </programme>
-  <programme channel="157" start="20251027112000 +0800" stop="20251027142000 +0800">
-    <title lang="zh">河南有好戏</title>
-  </programme>
-  <programme channel="157" start="20251027142000 +0800" stop="20251027152000 +0800">
-    <title lang="zh">精彩剧场《神医喜来乐》</title>
-  </programme>
-  <programme channel="157" start="20251027152000 +0800" stop="20251027170000 +0800">
-    <title lang="zh">精彩剧场《黎明决战》</title>
-  </programme>
-  <programme channel="157" start="20251027170000 +0800" stop="20251027190000 +0800">
-    <title lang="zh">河南有好戏</title>
-  </programme>
-  <programme channel="157" start="20251027190000 +0800" stop="20251027194000 +0800">
-    <title lang="zh">健康宝藏</title>
-  </programme>
-  <programme channel="157" start="20251027194000 +0800" stop="20251027235700 +0800">
-    <title lang="zh">河南有好戏</title>
-  </programme>
   <channel id="163">
     <display-name lang="zh">移动戏曲频道</display-name>
   </channel>
