@@ -792,6 +792,33 @@
   <programme channel="156" start="20251113230100 +0800" stop="20251113235700 +0800">
     <title lang="zh">巅峰擂台</title>
   </programme>
+  <channel id="157">
+    <display-name lang="zh">睛彩中原</display-name>
+  </channel>
+  <programme channel="157" start="20251113000000 +0800" stop="20251113042000 +0800">
+    <title lang="zh">河南有好戏（重播）</title>
+  </programme>
+  <programme channel="157" start="20251113042000 +0800" stop="20251113072000 +0800">
+    <title lang="zh">精彩剧场《长沙保卫战》（重播）</title>
+  </programme>
+  <programme channel="157" start="20251113072000 +0800" stop="20251113112000 +0800">
+    <title lang="zh">美好剧场《铁齿铜牙纪晓岚4》</title>
+  </programme>
+  <programme channel="157" start="20251113112000 +0800" stop="20251113142000 +0800">
+    <title lang="zh">河南有好戏</title>
+  </programme>
+  <programme channel="157" start="20251113142000 +0800" stop="20251113170000 +0800">
+    <title lang="zh">精彩剧场《长沙保卫战》</title>
+  </programme>
+  <programme channel="157" start="20251113170000 +0800" stop="20251113190000 +0800">
+    <title lang="zh">河南有好戏</title>
+  </programme>
+  <programme channel="157" start="20251113190000 +0800" stop="20251113194000 +0800">
+    <title lang="zh">健康宝藏</title>
+  </programme>
+  <programme channel="157" start="20251113194000 +0800" stop="20251113235700 +0800">
+    <title lang="zh">河南有好戏</title>
+  </programme>
   <channel id="163">
     <display-name lang="zh">移动戏曲频道</display-name>
   </channel>
