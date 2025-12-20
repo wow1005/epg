@@ -558,6 +558,39 @@
   <programme channel="152" start="20251220225000 +0800" stop="20251220235700 +0800">
     <title lang="zh">星空影院</title>
   </programme>
+  <channel id="148">
+    <display-name lang="zh">电视剧频道</display-name>
+  </channel>
+  <programme channel="148" start="20251220000000 +0800" stop="20251220023000 +0800">
+    <title lang="zh">惊险剧场：一门三司令</title>
+  </programme>
+  <programme channel="148" start="20251220023000 +0800" stop="20251220060000 +0800">
+    <title lang="zh">惊险剧场：锄奸</title>
+  </programme>
+  <programme channel="148" start="20251220060000 +0800" stop="20251220114000 +0800">
+    <title lang="zh">时光剧场：匹夫英雄</title>
+  </programme>
+  <programme channel="148" start="20251220114000 +0800" stop="20251220115500 +0800">
+    <title lang="zh">银龄乐享荟</title>
+  </programme>
+  <programme channel="148" start="20251220115500 +0800" stop="20251220133000 +0800">
+    <title lang="zh">等着我 </title>
+  </programme>
+  <programme channel="148" start="20251220133000 +0800" stop="20251220163000 +0800">
+    <title lang="zh">浓情剧场：匹夫英雄</title>
+  </programme>
+  <programme channel="148" start="20251220163000 +0800" stop="20251220170000 +0800">
+    <title lang="zh">非遗传承人</title>
+  </programme>
+  <programme channel="148" start="20251220170000 +0800" stop="20251220183000 +0800">
+    <title lang="zh">等着我 </title>
+  </programme>
+  <programme channel="148" start="20251220183000 +0800" stop="20251220225000 +0800">
+    <title lang="zh">真好剧场：摩西密码</title>
+  </programme>
+  <programme channel="148" start="20251220225000 +0800" stop="20251220235700 +0800">
+    <title lang="zh">大剧榜：生死连</title>
+  </programme>
   <channel id="154">
     <display-name lang="zh">梨园频道</display-name>
   </channel>
