@@ -124,19 +124,19 @@
     <title lang="zh">美丽河南美好家</title>
   </programme>
   <programme channel="149" start="20251230212000 +0800" stop="20251230214600 +0800">
-    <title lang="zh">大象会客厅</title>
+    <title lang="zh">每一个人都是主角</title>
   </programme>
   <programme channel="149" start="20251230214600 +0800" stop="20251230220600 +0800">
-    <title lang="zh">河南体育报道</title>
+    <title lang="zh">每一个人都是主角</title>
   </programme>
   <programme channel="149" start="20251230220600 +0800" stop="20251230221600 +0800">
-    <title lang="zh">河南晚间报道</title>
+    <title lang="zh">河南体育报道</title>
   </programme>
   <programme channel="149" start="20251230221600 +0800" stop="20251230224600 +0800">
-    <title lang="zh">河南新闻联播</title>
+    <title lang="zh">河南体育报道＋河南新闻联播</title>
   </programme>
   <programme channel="149" start="20251230224600 +0800" stop="20251230235700 +0800">
-    <title lang="zh">大象剧场</title>
+    <title lang="zh">河南新闻联播＋大象剧场</title>
   </programme>
   <channel id="141">
     <display-name lang="zh">都市频道</display-name>
