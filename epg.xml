@@ -813,39 +813,6 @@
   <programme channel="157" start="20260116194000 +0800" stop="20260116235700 +0800">
     <title lang="zh">河南有好戏</title>
   </programme>
-  <channel id="163">
-    <display-name lang="zh">移动戏曲频道</display-name>
-  </channel>
-  <programme channel="163" start="20260116002000 +0800" stop="20260116012000 +0800">
-    <title lang="zh">河南坠子</title>
-  </programme>
-  <programme channel="163" start="20260116012000 +0800" stop="20260116033000 +0800">
-    <title lang="zh">戏苑百家</title>
-  </programme>
-  <programme channel="163" start="20260116033000 +0800" stop="20260116070000 +0800">
-    <title lang="zh">大戏点播</title>
-  </programme>
-  <programme channel="163" start="20260116070000 +0800" stop="20260116082000 +0800">
-    <title lang="zh">河南坠子</title>
-  </programme>
-  <programme channel="163" start="20260116082000 +0800" stop="20260116113000 +0800">
-    <title lang="zh">戏苑百家</title>
-  </programme>
-  <programme channel="163" start="20260116113000 +0800" stop="20260116121000 +0800">
-    <title lang="zh">唱段欣赏</title>
-  </programme>
-  <programme channel="163" start="20260116121000 +0800" stop="20260116133000 +0800">
-    <title lang="zh">河南坠子</title>
-  </programme>
-  <programme channel="163" start="20260116133000 +0800" stop="20260116172000 +0800">
-    <title lang="zh">大戏点播</title>
-  </programme>
-  <programme channel="163" start="20260116172000 +0800" stop="20260116203000 +0800">
-    <title lang="zh">戏苑百家</title>
-  </programme>
-  <programme channel="163" start="20260116203000 +0800" stop="20260116235700 +0800">
-    <title lang="zh">大戏点播</title>
-  </programme>
   <channel id="183">
     <display-name lang="zh">象视界</display-name>
   </channel>
