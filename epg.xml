@@ -870,6 +870,81 @@
   <programme channel="163" start="20260202203000 +0800" stop="20260202235700 +0800">
     <title lang="zh">大戏点播</title>
   </programme>
+  <channel id="183">
+    <display-name lang="zh">象视界</display-name>
+  </channel>
+  <programme channel="183" start="20260202000000 +0800" stop="20260202010000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选1</title>
+  </programme>
+  <programme channel="183" start="20260202010000 +0800" stop="20260202020000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选2</title>
+  </programme>
+  <programme channel="183" start="20260202020000 +0800" stop="20260202030000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选3</title>
+  </programme>
+  <programme channel="183" start="20260202030000 +0800" stop="20260202040000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选4</title>
+  </programme>
+  <programme channel="183" start="20260202040000 +0800" stop="20260202050000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选5</title>
+  </programme>
+  <programme channel="183" start="20260202050000 +0800" stop="20260202060000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选6</title>
+  </programme>
+  <programme channel="183" start="20260202060000 +0800" stop="20260202070000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选7</title>
+  </programme>
+  <programme channel="183" start="20260202070000 +0800" stop="20260202080000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选8</title>
+  </programme>
+  <programme channel="183" start="20260202080000 +0800" stop="20260202090000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选9</title>
+  </programme>
+  <programme channel="183" start="20260202090000 +0800" stop="20260202100000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选1</title>
+  </programme>
+  <programme channel="183" start="20260202100000 +0800" stop="20260202110000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选2</title>
+  </programme>
+  <programme channel="183" start="20260202110000 +0800" stop="20260202120000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选3</title>
+  </programme>
+  <programme channel="183" start="20260202120000 +0800" stop="20260202130000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选4</title>
+  </programme>
+  <programme channel="183" start="20260202130000 +0800" stop="20260202140000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选5</title>
+  </programme>
+  <programme channel="183" start="20260202140000 +0800" stop="20260202150000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选6</title>
+  </programme>
+  <programme channel="183" start="20260202150000 +0800" stop="20260202160000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选7</title>
+  </programme>
+  <programme channel="183" start="20260202160000 +0800" stop="20260202170000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选8</title>
+  </programme>
+  <programme channel="183" start="20260202170000 +0800" stop="20260202180000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选9</title>
+  </programme>
+  <programme channel="183" start="20260202180000 +0800" stop="20260202190000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选1</title>
+  </programme>
+  <programme channel="183" start="20260202190000 +0800" stop="20260202200000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选2</title>
+  </programme>
+  <programme channel="183" start="20260202200000 +0800" stop="20260202210000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选3</title>
+  </programme>
+  <programme channel="183" start="20260202210000 +0800" stop="20260202220000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选4</title>
+  </programme>
+  <programme channel="183" start="20260202220000 +0800" stop="20260202230000 +0800">
+    <title lang="zh">中国节日节气奇妙游精选5</title>
+  </programme>
+  <programme channel="183" start="20260202230000 +0800" stop="20260202235700 +0800">
+    <title lang="zh">中国节日节气奇妙游精选6</title>
+  </programme>
   <channel id="194">
     <display-name lang="zh">国学频道</display-name>
   </channel>
