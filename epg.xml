@@ -855,45 +855,6 @@
   <programme channel="157" start="20260209200000 +0800" stop="20260209235700 +0800">
     <title lang="zh">河南有好戏</title>
   </programme>
-  <channel id="163">
-    <display-name lang="zh">移动戏曲频道</display-name>
-  </channel>
-  <programme channel="163" start="20260209002000 +0800" stop="20260209025000 +0800">
-    <title lang="zh">《戏苑百家》</title>
-  </programme>
-  <programme channel="163" start="20260209025000 +0800" stop="20260209035000 +0800">
-    <title lang="zh">《梨园荟萃》</title>
-  </programme>
-  <programme channel="163" start="20260209035000 +0800" stop="20260209072000 +0800">
-    <title lang="zh">《大戏点播》</title>
-  </programme>
-  <programme channel="163" start="20260209072000 +0800" stop="20260209084000 +0800">
-    <title lang="zh">《梨园荟萃》</title>
-  </programme>
-  <programme channel="163" start="20260209084000 +0800" stop="20260209090000 +0800">
-    <title lang="zh">《名家讲戏》</title>
-  </programme>
-  <programme channel="163" start="20260209090000 +0800" stop="20260209111000 +0800">
-    <title lang="zh">《戏苑百家》</title>
-  </programme>
-  <programme channel="163" start="20260209111000 +0800" stop="20260209123000 +0800">
-    <title lang="zh">《梨园荟萃》</title>
-  </programme>
-  <programme channel="163" start="20260209123000 +0800" stop="20260209160000 +0800">
-    <title lang="zh">《大戏点播》</title>
-  </programme>
-  <programme channel="163" start="20260209160000 +0800" stop="20260209164000 +0800">
-    <title lang="zh">《唱段欣赏》</title>
-  </programme>
-  <programme channel="163" start="20260209164000 +0800" stop="20260209195000 +0800">
-    <title lang="zh">《戏苑百家》</title>
-  </programme>
-  <programme channel="163" start="20260209195000 +0800" stop="20260209234000 +0800">
-    <title lang="zh">《大戏点播》</title>
-  </programme>
-  <programme channel="163" start="20260209234000 +0800" stop="20260209235700 +0800">
-    <title lang="zh">《唱段欣赏》</title>
-  </programme>
   <channel id="183">
     <display-name lang="zh">象视界</display-name>
   </channel>
