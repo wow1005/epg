@@ -123,6 +123,57 @@
   <programme channel="149" start="20260228224000 +0800" stop="20260228235700 +0800">
     <title lang="zh">大象剧场</title>
   </programme>
+  <channel id="141">
+    <display-name lang="zh">都市频道</display-name>
+  </channel>
+  <programme channel="141" start="20260228000000 +0800" stop="20260228030000 +0800">
+    <title lang="zh">精彩剧场：密查</title>
+  </programme>
+  <programme channel="141" start="20260228030000 +0800" stop="20260228034200 +0800">
+    <title lang="zh">河南新闻联播</title>
+  </programme>
+  <programme channel="141" start="20260228034200 +0800" stop="20260228070000 +0800">
+    <title lang="zh">精彩剧场：密查</title>
+  </programme>
+  <programme channel="141" start="20260228070000 +0800" stop="20260228120000 +0800">
+    <title lang="zh">精品剧场：姐妹兄弟</title>
+  </programme>
+  <programme channel="141" start="20260228120000 +0800" stop="20260228135000 +0800">
+    <title lang="zh">午间剧场：独狼</title>
+  </programme>
+  <programme channel="141" start="20260228135000 +0800" stop="20260228142000 +0800">
+    <title lang="zh">都市报道</title>
+  </programme>
+  <programme channel="141" start="20260228142000 +0800" stop="20260228145000 +0800">
+    <title lang="zh">豫见新财富</title>
+  </programme>
+  <programme channel="141" start="20260228145000 +0800" stop="20260228150000 +0800">
+    <title lang="zh">老兵耀中原</title>
+  </programme>
+  <programme channel="141" start="20260228150000 +0800" stop="20260228164000 +0800">
+    <title lang="zh">精选剧场：叛逆者</title>
+  </programme>
+  <programme channel="141" start="20260228164000 +0800" stop="20260228174000 +0800">
+    <title lang="zh">精选剧场：黎明破晓前</title>
+  </programme>
+  <programme channel="141" start="20260228174000 +0800" stop="20260228181000 +0800">
+    <title lang="zh">我是中医药传承人</title>
+  </programme>
+  <programme channel="141" start="20260228181000 +0800" stop="20260228193000 +0800">
+    <title lang="zh">都市报道</title>
+  </programme>
+  <programme channel="141" start="20260228193000 +0800" stop="20260228222700 +0800">
+    <title lang="zh">都市剧场：老伴</title>
+  </programme>
+  <programme channel="141" start="20260228222700 +0800" stop="20260228223000 +0800">
+    <title lang="zh">天天福彩</title>
+  </programme>
+  <programme channel="141" start="20260228223000 +0800" stop="20260228225000 +0800">
+    <title lang="zh">美丽新风尚</title>
+  </programme>
+  <programme channel="141" start="20260228225000 +0800" stop="20260228235700 +0800">
+    <title lang="zh">午夜剧场：多大点事</title>
+  </programme>
   <channel id="146">
     <display-name lang="zh">民生频道</display-name>
   </channel>
