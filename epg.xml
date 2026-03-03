@@ -37,22 +37,22 @@
     <title lang="zh">央视新闻联播</title>
   </programme>
   <programme channel="145" start="20260303193500 +0800" stop="20260303203000 +0800">
-    <title lang="zh">2026元宵奇妙游</title>
+    <title lang="zh">2026元宵奇妙游（首播+重播）</title>
   </programme>
   <programme channel="145" start="20260303203000 +0800" stop="20260303212500 +0800">
-    <title lang="zh">2026元宵奇妙游（重播）</title>
+    <title lang="zh">2026元宵奇妙游（重播）+开箱！健康宝藏（首播）</title>
   </programme>
   <programme channel="145" start="20260303212500 +0800" stop="20260303221200 +0800">
-    <title lang="zh">开箱！健康宝藏（首播）</title>
+    <title lang="zh">开箱！健康宝藏（首播）+河南晚间报道</title>
   </programme>
   <programme channel="145" start="20260303221200 +0800" stop="20260303222400 +0800">
-    <title lang="zh">河南晚间报道</title>
-  </programme>
-  <programme channel="145" start="20260303222400 +0800" stop="20260303224200 +0800">
     <title lang="zh">河大卫短剧场：舞动敦煌</title>
   </programme>
+  <programme channel="145" start="20260303222400 +0800" stop="20260303224200 +0800">
+    <title lang="zh">河大卫短剧场：舞动敦煌+万象剧场：冰雪尖刀连</title>
+  </programme>
   <programme channel="145" start="20260303224200 +0800" stop="20260303235700 +0800">
-    <title lang="zh">万象剧场：冰雪尖刀连</title>
+    <title lang="zh">万象剧场：冰雪尖刀连+纪录</title>
   </programme>
   <channel id="149">
     <display-name lang="zh">新闻频道</display-name>
